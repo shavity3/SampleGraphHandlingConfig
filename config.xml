@@ -1,0 +1,6 @@
+<!--
+ This is a config file for GraphCreationFromText that allows to set base assumaptions on how it will work.
+!-->
+<config>
+	<TimeUnit>1</TimeUnit> <!-- This is the interval for when processing data, 0.001 is one milisecond -->
+</config>
